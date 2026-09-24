@@ -22,23 +22,26 @@ The dashboard demonstrates a practical **Data Analyst workflow** using Excel dat
 # 🖼️ Dashboard Preview
 
 ### 📌 Dashboard Overview
+
 KPI cards, performance table, slicers, and key business metrics.
 
-![NovaTech Dashboard Overview](images/novatech-dashboard-1.png)
+![NovaTech Overview](images/NovaTech_Overview.png)
 
 ---
 
 ### 📊 Performance Analysis
+
 Business performance tables with interactive slicers for detailed analysis.
 
-![NovaTech Performance Analysis](images/novatech-dashboard-2.png)
+![NovaTech Performance Analysis](images/NovaTech_Performance_Analysis.png)
 
 ---
 
 ### 💡 Business Insights
+
 Charts and business insights highlighting revenue, profit, performance, and key trends.
 
-![NovaTech Business Insights](images/novatech-dashboard-3.png)
+![NovaTech Business Insights](images/NovaTech_Business_Insights.png)
 
 ---
 # 🗂️ Dashboard Analysis
