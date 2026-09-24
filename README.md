@@ -19,7 +19,28 @@ The dashboard demonstrates a practical **Data Analyst workflow** using Excel dat
 | **Profit Margin** | 31.52% |
 
 ---
+# 🖼️ Dashboard Preview
 
+### 📌 Dashboard Overview
+KPI cards, performance table, slicers, and key business metrics.
+
+![NovaTech Dashboard Overview](images/novatech-dashboard-1.png)
+
+---
+
+### 📊 Performance Analysis
+Business performance tables with interactive slicers for detailed analysis.
+
+![NovaTech Performance Analysis](images/novatech-dashboard-2.png)
+
+---
+
+### 💡 Business Insights
+Charts and business insights highlighting revenue, profit, performance, and key trends.
+
+![NovaTech Business Insights](images/novatech-dashboard-3.png)
+
+---
 # 🗂️ Dashboard Analysis
 
 ## 1️⃣ Revenue & Profit Performance
@@ -262,7 +283,6 @@ Business Insights
 | File | Description |
 |---|---|
 | `NovaTech_Dashboard.xlsx` | Excel Business Performance Dashboard |
-| `NovaTech_Data.xlsx` | Business dataset |
 | `README.md` | Project documentation |
 
 ---
