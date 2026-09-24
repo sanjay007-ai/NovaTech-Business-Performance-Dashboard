@@ -18,14 +18,13 @@ The dashboard demonstrates a practical **Data Analyst workflow** using Excel dat
 | **Average CSAT** | 4.26 |
 | **Profit Margin** | 31.52% |
 
----
 # 🖼️ Dashboard Preview
 
 ### 📌 Dashboard Overview
 
 KPI cards, performance table, slicers, and key business metrics.
 
-![NovaTech Overview](images/NovaTech_Overview.png)
+![NovaTech Overview](NovaTech_Overview.png)
 
 ---
 
@@ -33,7 +32,7 @@ KPI cards, performance table, slicers, and key business metrics.
 
 Business performance tables with interactive slicers for detailed analysis.
 
-![NovaTech Performance Analysis](images/NovaTech_Performance_Analysis.png)
+![NovaTech Performance Analysis](NovaTech_Performance_Analysis.png)
 
 ---
 
@@ -41,9 +40,10 @@ Business performance tables with interactive slicers for detailed analysis.
 
 Charts and business insights highlighting revenue, profit, performance, and key trends.
 
-![NovaTech Business Insights](images/NovaTech_Business_Insights.png)
+![NovaTech Business Insights](NovaTech_Business_Insights.png)
 
 ---
+
 # 🗂️ Dashboard Analysis
 
 ## 1️⃣ Revenue & Profit Performance
